@@ -69,9 +69,9 @@ Los tiempos se agregan después de ejecutar el programa en mi computadora.
 
 | Implementación | Tiempo de ejecución |
 |---|---|
-| C puro | Pendiente |
-| ASM inline | Pendiente |
-| ASM con POPCNT | Pendiente |
+| C puro | 4.3820 segundos |
+| ASM inline | 2.8890 segundos |
+| ASM con POPCNT | 0.1760 segundos |
 
 **Comprobación:** Las tres implementaciones deben obtener el mismo total de bits activados.
 
