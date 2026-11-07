@@ -42,7 +42,9 @@ Para compilar el programa desde la terminal de PowerShell de Visual Studio Code,
 ```powershell
 & "C:\mingw64\bin\gcc.exe" -O0 -Wall -Wextra .\main.c -o .\main.exe 2>&1
 ```
-```Tuve que utilizar este comando por que con 
+
+Tuve que utilizar este comando por que con 
+```
 gcc -O0 -Wall -Wextra -std=gnu11 main.c -o main.exe
 ```
 No pude Compilarlo.
