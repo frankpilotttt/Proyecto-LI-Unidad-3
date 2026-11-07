@@ -77,12 +77,10 @@ Los tiempos se agregan después de ejecutar el programa en mi computadora.
 
 ## Capturas de pantalla
 
-En esta sección se agregarán algunas capturas del desarrollo y funcionamiento del programa:
+En esta sección se agregarán algunas capturas del funcionamiento del programa:
 
-- Compilación desde Visual Studio Code.
-- Código de las implementaciones en C y ASM.
-- Ejecución del programa.
-- Resultados y comparación de tiempos.
+<img width="606" height="575" alt="image" src="https://github.com/user-attachments/assets/e113c524-22fe-4c55-972d-983a61b1f4e2" />
+
 
 ## Conclusión
 
